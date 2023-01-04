@@ -11,8 +11,8 @@
 -->
 <div align="center">
   <a href="https://github.com/brendamaria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendamaria&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendamaria&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendamaria&show_icons=true&theme=cobalt&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendamaria&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div align="center"> 
   <a href="https://www.instagram.com/_maria.brenda_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
